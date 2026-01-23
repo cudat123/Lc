@@ -1,20 +1,21 @@
 {
-  "name": "sun-api-proxy",
+  "name": "lc79-api-proxy",
   "version": "1.0.0",
-  "description": "Proxy API Sun – đổi field phien & du_doan – no database",
+  "description": "LC79 Tai Xiu API (thuong + md5) - normalize data - no database",
   "main": "apisun.js",
   "type": "commonjs",
   "scripts": {
     "start": "node apisun.js"
   },
   "keywords": [
-    "sun",
+    "lc79",
     "tai-xiu",
+    "md5",
     "api",
     "proxy",
     "nodejs"
   ],
-  "author": "you",
+  "author": "tiendataox",
   "license": "MIT",
   "engines": {
     "node": ">=18.0.0"
