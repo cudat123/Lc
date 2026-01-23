@@ -1,0 +1,22 @@
+{
+  "name": "sun-api-proxy",
+  "version": "1.0.0",
+  "description": "Proxy API Sun – đổi field phien & du_doan – no database",
+  "main": "apisun.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node apisun.js"
+  },
+  "keywords": [
+    "sun",
+    "tai-xiu",
+    "api",
+    "proxy",
+    "nodejs"
+  ],
+  "author": "you",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
